@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448690741197",
+    "project_id": "quicknotes-e55b9",
+    "storage_bucket": "quicknotes-e55b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448690741197:android:d3138d474788b0ba372e84",
+        "android_client_info": {
+          "package_name": "com.example.quicknotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448690741197-dq2g14spnfgvgutoahb2rfq8b35hi994.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-TwHa0wOLUJIj3Tum494SY_9Ki5_IgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448690741197-dq2g14spnfgvgutoahb2rfq8b35hi994.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
